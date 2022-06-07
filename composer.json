@@ -1,0 +1,17 @@
+{
+  "name": "greabock/enot-verifier",
+  "type": "library",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Роман Сохарев",
+      "email": "greabock@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Enot\\Verifier\\": "src/"
+    }
+  }
+}
